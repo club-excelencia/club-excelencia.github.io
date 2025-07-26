@@ -1,8 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  distDir: "docs",
   /* config options here */
+  output: "export",
+  distDir: "docs",
 };
 
 export default nextConfig;
