@@ -1,0 +1,6 @@
+.cover {
+    > article h1 {
+        font-size: 32pt;
+        margin: 0;
+    }
+}
