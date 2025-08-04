@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "projectId": "4oPxrtqpGLzoqT6ZzvPX2Q",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "CMHL7K1w1P03",
+          "checksum": "2795a2a9c47629ff732dd036fef2f5eb"
+        },
+        {
+          "assetId": "4oPxrtqpGLzoqT6ZzvPX2Q",
+          "type": "projectCss",
+          "checksum": "4b85e9520047dc6b75fd08bee24e19b3"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "mtlKqkLhsZJi",
+          "checksum": "d89d026d60ce27f1b82db01c517afd77"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "mtlKqkLhsZJi",
+          "checksum": "d89d026d60ce27f1b82db01c517afd77"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.340"
+}
